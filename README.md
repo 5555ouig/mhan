@@ -1,2 +1,0 @@
-# mykingbot
-King Bot
